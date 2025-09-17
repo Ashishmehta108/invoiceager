@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX "user_email_unique" ON "invoiceager_user" USING btree ("email");

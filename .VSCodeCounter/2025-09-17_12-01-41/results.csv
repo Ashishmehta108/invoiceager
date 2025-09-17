@@ -1,0 +1,68 @@
+"filename", "language", "JSON with Comments", "Shell Script", "TypeScript", "TypeScript JSX", "PostCSS", "JavaScript", "Markdown", "JSON", "MS SQL", "YAML", "comment", "blank", "total"
+"c:\Users\ashis\invoiceager\README.md", "Markdown", 0, 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 12, 30
+"c:\Users\ashis\invoiceager\components.json", "JSON", 0, 0, 0, 0, 0, 0, 0, 22, 0, 0, 0, 1, 23
+"c:\Users\ashis\invoiceager\drizzle.config.ts", "TypeScript", 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 3, 13
+"c:\Users\ashis\invoiceager\drizzle\0000_freezing_eternity.sql", "MS SQL", 0, 0, 0, 0, 0, 0, 0, 0, 92, 0, 8, 0, 100
+"c:\Users\ashis\invoiceager\drizzle\0001_quiet_layla_miller.sql", "MS SQL", 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 4
+"c:\Users\ashis\invoiceager\drizzle\0002_lucky_red_wolf.sql", "MS SQL", 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"c:\Users\ashis\invoiceager\drizzle\meta\0000_snapshot.json", "JSON", 0, 0, 0, 0, 0, 0, 0, 774, 0, 0, 0, 0, 774
+"c:\Users\ashis\invoiceager\drizzle\meta\0001_snapshot.json", "JSON", 0, 0, 0, 0, 0, 0, 0, 798, 0, 0, 0, 0, 798
+"c:\Users\ashis\invoiceager\drizzle\meta\0002_snapshot.json", "JSON", 0, 0, 0, 0, 0, 0, 0, 814, 0, 0, 0, 0, 814
+"c:\Users\ashis\invoiceager\drizzle\meta\_journal.json", "JSON", 0, 0, 0, 0, 0, 0, 0, 27, 0, 0, 0, 0, 27
+"c:\Users\ashis\invoiceager\eslint.config.js", "JavaScript", 0, 0, 0, 0, 0, 58, 0, 0, 0, 0, 1, 3, 62
+"c:\Users\ashis\invoiceager\next.config.js", "JavaScript", 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 5, 3, 11
+"c:\Users\ashis\invoiceager\package.json", "JSON", 0, 0, 0, 0, 0, 0, 0, 74, 0, 0, 0, 1, 75
+"c:\Users\ashis\invoiceager\pnpm-lock.yaml", "YAML", 0, 0, 0, 0, 0, 0, 0, 0, 0, 4464, 0, 1092, 5556
+"c:\Users\ashis\invoiceager\postcss.config.js", "JavaScript", 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 1, 6
+"c:\Users\ashis\invoiceager\prettier.config.js", "JavaScript", 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 1, 1, 5
+"c:\Users\ashis\invoiceager\scripts\create-db.mjs", "JavaScript", 0, 0, 0, 0, 0, 29, 0, 0, 0, 0, 2, 7, 38
+"c:\Users\ashis\invoiceager\scripts\seed.mjs", "JavaScript", 0, 0, 0, 0, 0, 53, 0, 0, 0, 0, 2, 8, 63
+"c:\Users\ashis\invoiceager\src\app\(app)\clients\page.tsx", "TypeScript JSX", 0, 0, 0, 78, 0, 0, 0, 0, 0, 0, 0, 8, 86
+"c:\Users\ashis\invoiceager\src\app\(app)\dashboard\page.tsx", "TypeScript JSX", 0, 0, 0, 70, 0, 0, 0, 0, 0, 0, 0, 5, 75
+"c:\Users\ashis\invoiceager\src\app\(app)\invoices\[id]\page.tsx", "TypeScript JSX", 0, 0, 0, 39, 0, 0, 0, 0, 0, 0, 0, 6, 45
+"c:\Users\ashis\invoiceager\src\app\(app)\invoices\new\page.tsx", "TypeScript JSX", 0, 0, 0, 112, 0, 0, 0, 0, 0, 0, 0, 4, 116
+"c:\Users\ashis\invoiceager\src\app\(app)\invoices\page.tsx", "TypeScript JSX", 0, 0, 0, 67, 0, 0, 0, 0, 0, 0, 0, 6, 73
+"c:\Users\ashis\invoiceager\src\app\(app)\layout.tsx", "TypeScript JSX", 0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 2, 4, 19
+"c:\Users\ashis\invoiceager\src\app\(app)\reports\page.tsx", "TypeScript JSX", 0, 0, 0, 29, 0, 0, 0, 0, 0, 0, 0, 4, 33
+"c:\Users\ashis\invoiceager\src\app\(app)\settings\page.tsx", "TypeScript JSX", 0, 0, 0, 52, 0, 0, 0, 0, 0, 0, 0, 5, 57
+"c:\Users\ashis\invoiceager\src\app\_components\post.tsx", "TypeScript JSX", 0, 0, 0, 45, 0, 0, 0, 0, 0, 0, 0, 6, 51
+"c:\Users\ashis\invoiceager\src\app\api\auth\[...nextauth]\route.ts", "TypeScript", 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"c:\Users\ashis\invoiceager\src\app\api\invoices\[id]\pdf\route.ts", "TypeScript", 0, 0, 45, 0, 0, 0, 0, 0, 0, 0, 0, 7, 52
+"c:\Users\ashis\invoiceager\src\app\api\reports\csv\route.ts", "TypeScript", 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 0, 4, 32
+"c:\Users\ashis\invoiceager\src\app\api\trpc\[trpc]\route.ts", "TypeScript", 0, 0, 26, 0, 0, 0, 0, 0, 0, 0, 4, 5, 35
+"c:\Users\ashis\invoiceager\src\app\layout.tsx", "TypeScript JSX", 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 6, 34
+"c:\Users\ashis\invoiceager\src\app\login\page.tsx", "TypeScript JSX", 0, 0, 0, 95, 0, 0, 0, 0, 0, 0, 0, 6, 101
+"c:\Users\ashis\invoiceager\src\app\page.tsx", "TypeScript JSX", 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"c:\Users\ashis\invoiceager\src\app\signup\page.tsx", "TypeScript JSX", 0, 0, 0, 55, 0, 0, 0, 0, 0, 0, 0, 6, 61
+"c:\Users\ashis\invoiceager\src\components\layout\Sidebar.tsx", "TypeScript JSX", 0, 0, 0, 39, 0, 0, 0, 0, 0, 0, 0, 6, 45
+"c:\Users\ashis\invoiceager\src\components\layout\Topbar.tsx", "TypeScript JSX", 0, 0, 0, 35, 0, 0, 0, 0, 0, 0, 0, 5, 40
+"c:\Users\ashis\invoiceager\src\components\ui\button.tsx", "TypeScript JSX", 0, 0, 0, 54, 0, 0, 0, 0, 0, 0, 0, 6, 60
+"c:\Users\ashis\invoiceager\src\components\ui\card.tsx", "TypeScript JSX", 0, 0, 0, 83, 0, 0, 0, 0, 0, 0, 0, 10, 93
+"c:\Users\ashis\invoiceager\src\components\ui\dialog.tsx", "TypeScript JSX", 0, 0, 0, 130, 0, 0, 0, 0, 0, 0, 0, 14, 144
+"c:\Users\ashis\invoiceager\src\components\ui\empty-state.tsx", "TypeScript JSX", 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 3, 13
+"c:\Users\ashis\invoiceager\src\components\ui\form.tsx", "TypeScript JSX", 0, 0, 0, 143, 0, 0, 0, 0, 0, 0, 0, 25, 168
+"c:\Users\ashis\invoiceager\src\components\ui\input.tsx", "TypeScript JSX", 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 4, 22
+"c:\Users\ashis\invoiceager\src\components\ui\label.tsx", "TypeScript JSX", 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 5, 25
+"c:\Users\ashis\invoiceager\src\components\ui\skeleton.tsx", "TypeScript JSX", 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"c:\Users\ashis\invoiceager\src\components\ui\sonner.tsx", "TypeScript JSX", 0, 0, 0, 21, 0, 0, 0, 0, 0, 0, 0, 5, 26
+"c:\Users\ashis\invoiceager\src\components\ui\table.tsx", "TypeScript JSX", 0, 0, 0, 105, 0, 0, 0, 0, 0, 0, 0, 12, 117
+"c:\Users\ashis\invoiceager\src\env.js", "JavaScript", 0, 0, 0, 0, 0, 27, 0, 0, 0, 0, 22, 4, 53
+"c:\Users\ashis\invoiceager\src\lib\utils.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 2, 7
+"c:\Users\ashis\invoiceager\src\server\api\root.ts", "TypeScript", 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 13, 4, 32
+"c:\Users\ashis\invoiceager\src\server\api\routers\clients.ts", "TypeScript", 0, 0, 85, 0, 0, 0, 0, 0, 0, 0, 0, 11, 96
+"c:\Users\ashis\invoiceager\src\server\api\routers\dashboard.ts", "TypeScript", 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 0, 8, 46
+"c:\Users\ashis\invoiceager\src\server\api\routers\invoices.ts", "TypeScript", 0, 0, 115, 0, 0, 0, 0, 0, 0, 0, 1, 13, 129
+"c:\Users\ashis\invoiceager\src\server\api\routers\post.ts", "TypeScript", 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 0, 7, 40
+"c:\Users\ashis\invoiceager\src\server\api\routers\settings.ts", "TypeScript", 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 4, 34
+"c:\Users\ashis\invoiceager\src\server\api\trpc.ts", "TypeScript", 0, 0, 52, 0, 0, 0, 0, 0, 0, 0, 66, 16, 134
+"c:\Users\ashis\invoiceager\src\server\auth\config.ts", "TypeScript", 0, 0, 55, 0, 0, 0, 0, 0, 0, 0, 17, 5, 77
+"c:\Users\ashis\invoiceager\src\server\auth\index.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 5, 11
+"c:\Users\ashis\invoiceager\src\server\db\index.ts", "TypeScript", 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 4, 5, 19
+"c:\Users\ashis\invoiceager\src\server\db\schema.ts", "TypeScript", 0, 0, 207, 0, 0, 0, 0, 0, 0, 0, 7, 17, 231
+"c:\Users\ashis\invoiceager\src\styles\globals.css", "PostCSS", 0, 0, 0, 0, 119, 0, 0, 0, 0, 0, 0, 7, 126
+"c:\Users\ashis\invoiceager\src\trpc\query-client.ts", "TypeScript", 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 2, 2, 26
+"c:\Users\ashis\invoiceager\src\trpc\react.tsx", "TypeScript JSX", 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 12, 13, 85
+"c:\Users\ashis\invoiceager\src\trpc\server.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 4, 7, 31
+"c:\Users\ashis\invoiceager\start-database.sh", "Shell Script", 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 84
+"c:\Users\ashis\invoiceager\tsconfig.json", "JSON with Comments", 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 43
+"Total", "-", 35, 58, 804, 1416, 119, 178, 18, 2509, 97, 4464, 190, 1463, 11351

@@ -1,0 +1,143 @@
+Date : 2025-09-17 12:01:41
+Directory : c:\Users\ashis\invoiceager
+Total : 66 files,  9698 codes, 190 comments, 1463 blanks, all 11351 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| YAML               |          1 |      4,464 |          0 |      1,092 |      5,556 |
+| JSON               |          6 |      2,509 |          0 |          2 |      2,511 |
+| TypeScript JSX     |         26 |      1,416 |         14 |        179 |      1,609 |
+| TypeScript         |         19 |        804 |        118 |        127 |      1,049 |
+| JavaScript         |          7 |        178 |         33 |         27 |        238 |
+| PostCSS            |          1 |        119 |          0 |          7 |        126 |
+| MS SQL             |          3 |         97 |          8 |          0 |        105 |
+| Shell Script       |          1 |         58 |         13 |         13 |         84 |
+| JSON with Comments |          1 |         35 |          4 |          4 |         43 |
+| Markdown           |          1 |         18 |          0 |         12 |         30 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                               | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                  |         66 |      9,698 |        190 |      1,463 |     11,351 |
+| . (Files)                                                          |         11 |      4,750 |         24 |      1,134 |      5,908 |
+| drizzle                                                            |          7 |      2,510 |          8 |          0 |      2,518 |
+| drizzle (Files)                                                    |          3 |         97 |          8 |          0 |        105 |
+| drizzle\meta                                                       |          4 |      2,413 |          0 |          0 |      2,413 |
+| scripts                                                            |          2 |         82 |          4 |         15 |        101 |
+| src                                                                |         46 |      2,356 |        154 |        314 |      2,824 |
+| src (Files)                                                        |          1 |         27 |         22 |          4 |         53 |
+| src\app                                                            |         17 |        788 |          6 |         86 |        880 |
+| src\app (Files)                                                    |          2 |         32 |          0 |          8 |         40 |
+| src\app\(app)                                                      |          8 |        460 |          2 |         42 |        504 |
+| src\app\(app) (Files)                                              |          1 |         13 |          2 |          4 |         19 |
+| src\app\(app)\clients                                              |          1 |         78 |          0 |          8 |         86 |
+| src\app\(app)\dashboard                                            |          1 |         70 |          0 |          5 |         75 |
+| src\app\(app)\invoices                                             |          3 |        218 |          0 |         16 |        234 |
+| src\app\(app)\invoices (Files)                                     |          1 |         67 |          0 |          6 |         73 |
+| src\app\(app)\invoices\[id]                                        |          1 |         39 |          0 |          6 |         45 |
+| src\app\(app)\invoices\new                                         |          1 |        112 |          0 |          4 |        116 |
+| src\app\(app)\reports                                              |          1 |         29 |          0 |          4 |         33 |
+| src\app\(app)\settings                                             |          1 |         52 |          0 |          5 |         57 |
+| src\app\_components                                                |          1 |         45 |          0 |          6 |         51 |
+| src\app\api                                                        |          4 |        101 |          4 |         18 |        123 |
+| src\app\api\auth                                                   |          1 |          2 |          0 |          2 |          4 |
+| src\app\api\auth\[...nextauth]                                     |          1 |          2 |          0 |          2 |          4 |
+| src\app\api\invoices                                               |          1 |         45 |          0 |          7 |         52 |
+| src\app\api\invoices\[id]                                          |          1 |         45 |          0 |          7 |         52 |
+| src\app\api\invoices\[id]\pdf                                      |          1 |         45 |          0 |          7 |         52 |
+| src\app\api\reports                                                |          1 |         28 |          0 |          4 |         32 |
+| src\app\api\reports\csv                                            |          1 |         28 |          0 |          4 |         32 |
+| src\app\api\trpc                                                   |          1 |         26 |          4 |          5 |         35 |
+| src\app\api\trpc\[trpc]                                            |          1 |         26 |          4 |          5 |         35 |
+| src\app\login                                                      |          1 |         95 |          0 |          6 |        101 |
+| src\app\signup                                                     |          1 |         55 |          0 |          6 |         61 |
+| src\components                                                     |         12 |        669 |          0 |         98 |        767 |
+| src\components\layout                                              |          2 |         74 |          0 |         11 |         85 |
+| src\components\ui                                                  |         10 |        595 |          0 |         87 |        682 |
+| src\lib                                                            |          1 |          5 |          0 |          2 |          7 |
+| src\server                                                         |         11 |        646 |        108 |         95 |        849 |
+| src\server\api                                                     |          7 |        368 |         80 |         63 |        511 |
+| src\server\api (Files)                                             |          2 |         67 |         79 |         20 |        166 |
+| src\server\api\routers                                             |          5 |        301 |          1 |         43 |        345 |
+| src\server\auth                                                    |          2 |         61 |         17 |         10 |         88 |
+| src\server\db                                                      |          2 |        217 |         11 |         22 |        250 |
+| src\styles                                                         |          1 |        119 |          0 |          7 |        126 |
+| src\trpc                                                           |          3 |        102 |         18 |         22 |        142 |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                           | language           | code       | comment    | blank      | total      |
++--------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\ashis\invoiceager\README.md                               | Markdown           |         18 |          0 |         12 |         30 |
+| c:\Users\ashis\invoiceager\components.json                         | JSON               |         22 |          0 |          1 |         23 |
+| c:\Users\ashis\invoiceager\drizzle.config.ts                       | TypeScript         |         10 |          0 |          3 |         13 |
+| c:\Users\ashis\invoiceager\drizzle\0000_freezing_eternity.sql      | MS SQL             |         92 |          8 |          0 |        100 |
+| c:\Users\ashis\invoiceager\drizzle\0001_quiet_layla_miller.sql     | MS SQL             |          4 |          0 |          0 |          4 |
+| c:\Users\ashis\invoiceager\drizzle\0002_lucky_red_wolf.sql         | MS SQL             |          1 |          0 |          0 |          1 |
+| c:\Users\ashis\invoiceager\drizzle\meta\0000_snapshot.json         | JSON               |        774 |          0 |          0 |        774 |
+| c:\Users\ashis\invoiceager\drizzle\meta\0001_snapshot.json         | JSON               |        798 |          0 |          0 |        798 |
+| c:\Users\ashis\invoiceager\drizzle\meta\0002_snapshot.json         | JSON               |        814 |          0 |          0 |        814 |
+| c:\Users\ashis\invoiceager\drizzle\meta\_journal.json              | JSON               |         27 |          0 |          0 |         27 |
+| c:\Users\ashis\invoiceager\eslint.config.js                        | JavaScript         |         58 |          1 |          3 |         62 |
+| c:\Users\ashis\invoiceager\next.config.js                          | JavaScript         |          3 |          5 |          3 |         11 |
+| c:\Users\ashis\invoiceager\package.json                            | JSON               |         74 |          0 |          1 |         75 |
+| c:\Users\ashis\invoiceager\pnpm-lock.yaml                          | YAML               |      4,464 |          0 |      1,092 |      5,556 |
+| c:\Users\ashis\invoiceager\postcss.config.js                       | JavaScript         |          5 |          0 |          1 |          6 |
+| c:\Users\ashis\invoiceager\prettier.config.js                      | JavaScript         |          3 |          1 |          1 |          5 |
+| c:\Users\ashis\invoiceager\scripts\create-db.mjs                   | JavaScript         |         29 |          2 |          7 |         38 |
+| c:\Users\ashis\invoiceager\scripts\seed.mjs                        | JavaScript         |         53 |          2 |          8 |         63 |
+| c:\Users\ashis\invoiceager\src\app\(app)\clients\page.tsx          | TypeScript JSX     |         78 |          0 |          8 |         86 |
+| c:\Users\ashis\invoiceager\src\app\(app)\dashboard\page.tsx        | TypeScript JSX     |         70 |          0 |          5 |         75 |
+| c:\Users\ashis\invoiceager\src\app\(app)\invoices\[id]\page.tsx    | TypeScript JSX     |         39 |          0 |          6 |         45 |
+| c:\Users\ashis\invoiceager\src\app\(app)\invoices\new\page.tsx     | TypeScript JSX     |        112 |          0 |          4 |        116 |
+| c:\Users\ashis\invoiceager\src\app\(app)\invoices\page.tsx         | TypeScript JSX     |         67 |          0 |          6 |         73 |
+| c:\Users\ashis\invoiceager\src\app\(app)\layout.tsx                | TypeScript JSX     |         13 |          2 |          4 |         19 |
+| c:\Users\ashis\invoiceager\src\app\(app)\reports\page.tsx          | TypeScript JSX     |         29 |          0 |          4 |         33 |
+| c:\Users\ashis\invoiceager\src\app\(app)\settings\page.tsx         | TypeScript JSX     |         52 |          0 |          5 |         57 |
+| c:\Users\ashis\invoiceager\src\app\_components\post.tsx            | TypeScript JSX     |         45 |          0 |          6 |         51 |
+| c:\Users\ashis\invoiceager\src\app\api\auth\[...nextauth]\route.ts | TypeScript         |          2 |          0 |          2 |          4 |
+| c:\Users\ashis\invoiceager\src\app\api\invoices\[id]\pdf\route.ts  | TypeScript         |         45 |          0 |          7 |         52 |
+| c:\Users\ashis\invoiceager\src\app\api\reports\csv\route.ts        | TypeScript         |         28 |          0 |          4 |         32 |
+| c:\Users\ashis\invoiceager\src\app\api\trpc\[trpc]\route.ts        | TypeScript         |         26 |          4 |          5 |         35 |
+| c:\Users\ashis\invoiceager\src\app\layout.tsx                      | TypeScript JSX     |         28 |          0 |          6 |         34 |
+| c:\Users\ashis\invoiceager\src\app\login\page.tsx                  | TypeScript JSX     |         95 |          0 |          6 |        101 |
+| c:\Users\ashis\invoiceager\src\app\page.tsx                        | TypeScript JSX     |          4 |          0 |          2 |          6 |
+| c:\Users\ashis\invoiceager\src\app\signup\page.tsx                 | TypeScript JSX     |         55 |          0 |          6 |         61 |
+| c:\Users\ashis\invoiceager\src\components\layout\Sidebar.tsx       | TypeScript JSX     |         39 |          0 |          6 |         45 |
+| c:\Users\ashis\invoiceager\src\components\layout\Topbar.tsx        | TypeScript JSX     |         35 |          0 |          5 |         40 |
+| c:\Users\ashis\invoiceager\src\components\ui\button.tsx            | TypeScript JSX     |         54 |          0 |          6 |         60 |
+| c:\Users\ashis\invoiceager\src\components\ui\card.tsx              | TypeScript JSX     |         83 |          0 |         10 |         93 |
+| c:\Users\ashis\invoiceager\src\components\ui\dialog.tsx            | TypeScript JSX     |        130 |          0 |         14 |        144 |
+| c:\Users\ashis\invoiceager\src\components\ui\empty-state.tsx       | TypeScript JSX     |         10 |          0 |          3 |         13 |
+| c:\Users\ashis\invoiceager\src\components\ui\form.tsx              | TypeScript JSX     |        143 |          0 |         25 |        168 |
+| c:\Users\ashis\invoiceager\src\components\ui\input.tsx             | TypeScript JSX     |         18 |          0 |          4 |         22 |
+| c:\Users\ashis\invoiceager\src\components\ui\label.tsx             | TypeScript JSX     |         20 |          0 |          5 |         25 |
+| c:\Users\ashis\invoiceager\src\components\ui\skeleton.tsx          | TypeScript JSX     |         11 |          0 |          3 |         14 |
+| c:\Users\ashis\invoiceager\src\components\ui\sonner.tsx            | TypeScript JSX     |         21 |          0 |          5 |         26 |
+| c:\Users\ashis\invoiceager\src\components\ui\table.tsx             | TypeScript JSX     |        105 |          0 |         12 |        117 |
+| c:\Users\ashis\invoiceager\src\env.js                              | JavaScript         |         27 |         22 |          4 |         53 |
+| c:\Users\ashis\invoiceager\src\lib\utils.ts                        | TypeScript         |          5 |          0 |          2 |          7 |
+| c:\Users\ashis\invoiceager\src\server\api\root.ts                  | TypeScript         |         15 |         13 |          4 |         32 |
+| c:\Users\ashis\invoiceager\src\server\api\routers\clients.ts       | TypeScript         |         85 |          0 |         11 |         96 |
+| c:\Users\ashis\invoiceager\src\server\api\routers\dashboard.ts     | TypeScript         |         38 |          0 |          8 |         46 |
+| c:\Users\ashis\invoiceager\src\server\api\routers\invoices.ts      | TypeScript         |        115 |          1 |         13 |        129 |
+| c:\Users\ashis\invoiceager\src\server\api\routers\post.ts          | TypeScript         |         33 |          0 |          7 |         40 |
+| c:\Users\ashis\invoiceager\src\server\api\routers\settings.ts      | TypeScript         |         30 |          0 |          4 |         34 |
+| c:\Users\ashis\invoiceager\src\server\api\trpc.ts                  | TypeScript         |         52 |         66 |         16 |        134 |
+| c:\Users\ashis\invoiceager\src\server\auth\config.ts               | TypeScript         |         55 |         17 |          5 |         77 |
+| c:\Users\ashis\invoiceager\src\server\auth\index.ts                | TypeScript         |          6 |          0 |          5 |         11 |
+| c:\Users\ashis\invoiceager\src\server\db\index.ts                  | TypeScript         |         10 |          4 |          5 |         19 |
+| c:\Users\ashis\invoiceager\src\server\db\schema.ts                 | TypeScript         |        207 |          7 |         17 |        231 |
+| c:\Users\ashis\invoiceager\src\styles\globals.css                  | PostCSS            |        119 |          0 |          7 |        126 |
+| c:\Users\ashis\invoiceager\src\trpc\query-client.ts                | TypeScript         |         22 |          2 |          2 |         26 |
+| c:\Users\ashis\invoiceager\src\trpc\react.tsx                      | TypeScript JSX     |         60 |         12 |         13 |         85 |
+| c:\Users\ashis\invoiceager\src\trpc\server.ts                      | TypeScript         |         20 |          4 |          7 |         31 |
+| c:\Users\ashis\invoiceager\start-database.sh                       | Shell Script       |         58 |         13 |         13 |         84 |
+| c:\Users\ashis\invoiceager\tsconfig.json                           | JSON with Comments |         35 |          4 |          4 |         43 |
+| Total                                                              |                    |      9,698 |        190 |      1,463 |     11,351 |
++--------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
