@@ -4,6 +4,7 @@ import { invoicesRouter } from "@/server/api/routers/invoices";
 import { createCallerFactory, createTRPCRouter } from "@/server/api/trpc";
 import { dashboardRouter } from "@/server/api/routers/dashboard";
 import { settingsRouter } from "@/server/api/routers/settings";
+import { reportsRouter } from "@/server/api/routers/reports";
 
 /**
  * This is the primary router for your server.
@@ -16,6 +17,7 @@ export const appRouter = createTRPCRouter({
   invoices: invoicesRouter,
   dashboard: dashboardRouter,
   settings: settingsRouter,
+  reports: reportsRouter,
 });
 
 // export type definition of API
